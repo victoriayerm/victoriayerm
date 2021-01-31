@@ -1,16 +1,25 @@
-### Hi there 👋
+## *Hello everyone!* :dizzy:
+My name is *Victoria*, I am from **_Ukraine_**, living in **_Belgium_** since 2016.
+Currently I am working as a procurement specialist, but I would like to change my profession. I am super excited to be a student at **_HackYourFutureBelgium_** program.
 
-<!--
-**victoriayerm/victoriayerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I love:
+* :muscle: traveling, hiking, biking 
+* :dancer: sports and especially dancing
+* :book: books
+* :ok_woman: hanging out with my friends, parties
+* :ghost: comedies
+* :tada: theatres
+* :heart: learn something new
 
-Here are some ideas to get you started:
+We can connect on [LinkedIn](https://www.linkedin.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See you all soon!
+
+Thanks for reading it! :laughing:
+
+---
+![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriayerm&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriayerm&layout=compact)](https://github.com/victoriayerm/github-readme-stats)
+
+---
