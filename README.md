@@ -1,4 +1,7 @@
 ## *Hello everyone!* :dizzy:
+
+![Dreamer](file:///Users/victoriayermakova/Downloads/556598_3659840623544_1090715555_n.png)
+
 My name is *Victoria*, I am from **_Ukraine_**, living in **_Belgium_** since 2016.
 Currently I am working as a procurement specialist, but I would like to change my profession. I am super excited to be a student at **_HackYourFutureBelgium_** program.
 
